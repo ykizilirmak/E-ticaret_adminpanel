@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {}
+    "C:\\Users\\tubak\\source\\repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {
+    "C:\\Users\\tubak\\source\\repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+        "projectUniqueName": "C:\\Users\\tubak\\source\\repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
         "projectName": "admin",
-        "projectPath": "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+        "projectPath": "C:\\Users\\tubak\\source\\repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
         "packagesPath": "C:\\Users\\tubak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\obj\\",
+        "outputPath": "C:\\Users\\tubak\\source\\repos\\E-ticaret_adminpanel\\admin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\90538\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Users\\tubak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
