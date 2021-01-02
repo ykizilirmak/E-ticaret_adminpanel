@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\BuseYalcin\\source\\repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {}
   },
   "projects": {
@@ -15,12 +16,37 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BuseYalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+        "projectName": "admin",
+        "projectPath": "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+        "packagesPath": "C:\\Users\\90538\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\90538\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+>>>>>>> fabadeef8536ecbb5168764adf62151309094179
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
+<<<<<<< HEAD
+=======
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+>>>>>>> fabadeef8536ecbb5168764adf62151309094179
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
