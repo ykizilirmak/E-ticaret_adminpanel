@@ -2,6 +2,24 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+    "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {}
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+        "projectName": "admin",
+        "projectPath": "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+        "packagesPath": "C:\\Users\\SalihBurak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\obj\\",
+=======
+<<<<<<< HEAD
     "C:\\Users\\BuseYalcin\\source\\repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {}
   },
   "projects": {
@@ -13,46 +31,57 @@
         "projectPath": "C:\\Users\\BuseYalcin\\source\\repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
         "packagesPath": "C:\\Users\\BuseYalcin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\BuseYalcin\\source\\repos\\E-ticaret_adminpanel\\admin\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\BuseYalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-    "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
-        "projectName": "admin",
-        "projectPath": "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
-        "packagesPath": "C:\\Users\\90538\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\obj\\",
+>>>>>>> a63a9b1243d265cfd88f15641b3ab82c783e71c1
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
+          "C:\\Users\\SalihBurak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\BuseYalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+>>>>>>> 3c4b32b7cdfc7e4e5d4eaf57fdaa22971aacc43c
+    "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {}
+>>>>>>> ee44f8e671b0e911d74da459f1833a20019c8538
+  },
+  "projects": {
+    "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+        "projectName": "admin",
+        "projectPath": "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+        "packagesPath": "C:\\Users\\tubak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+<<<<<<< HEAD
+          "C:\\Users\\tubak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
           "C:\\Users\\90538\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+<<<<<<< HEAD
+=======
 >>>>>>> fabadeef8536ecbb5168764adf62151309094179
+>>>>>>> a63a9b1243d265cfd88f15641b3ab82c783e71c1
+>>>>>>> 3c4b32b7cdfc7e4e5d4eaf57fdaa22971aacc43c
+>>>>>>> ee44f8e671b0e911d74da459f1833a20019c8538
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
-<<<<<<< HEAD
-=======
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
->>>>>>> fabadeef8536ecbb5168764adf62151309094179
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
-            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -64,7 +93,6 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -94,7 +122,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
