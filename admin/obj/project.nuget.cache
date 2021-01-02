@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JfXnL3xt42TVDJDhQXn5TqSQeDDI+ACk9cNPR8kLvycgm52MhD55SlqA1Mqj6hOCfpblSSeXe+LKAVzXQaBaHQ==",
+  "dgSpecHash": "JC7uq/CVVakXFMJ2gCRkTvmkjLfe4H76TBuuWH7uh8U0NLIkxVyBZO61GWo7g47O6AxgfNwDXQfMdJ58IW3laQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+  "projectFilePath": "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

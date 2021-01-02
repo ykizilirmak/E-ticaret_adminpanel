@@ -1,38 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {}
+    "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {
+    "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+        "projectUniqueName": "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
         "projectName": "admin",
-        "projectPath": "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
-        "packagesPath": "C:\\Users\\90538\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\obj\\",
+        "projectPath": "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+        "packagesPath": "C:\\Users\\tubak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\90538\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Users\\tubak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
-            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -44,7 +40,6 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -74,7 +69,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
