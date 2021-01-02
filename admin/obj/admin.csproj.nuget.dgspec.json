@@ -2,6 +2,19 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+    "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+        "projectName": "admin",
+        "projectPath": "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+        "packagesPath": "C:\\Users\\SalihBurak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\obj\\",
+=======
+<<<<<<< HEAD
     "C:\\Users\\BuseYalcin\\source\\repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {}
   },
   "projects": {
@@ -13,8 +26,15 @@
         "projectPath": "C:\\Users\\BuseYalcin\\source\\repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
         "packagesPath": "C:\\Users\\BuseYalcin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\BuseYalcin\\source\\repos\\E-ticaret_adminpanel\\admin\\obj\\",
+>>>>>>> a63a9b1243d265cfd88f15641b3ab82c783e71c1
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
+<<<<<<< HEAD
+          "C:\\Users\\SalihBurak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
           "C:\\Users\\BuseYalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
     "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj": {}
@@ -37,6 +57,7 @@
           "C:\\Users\\90538\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
 >>>>>>> fabadeef8536ecbb5168764adf62151309094179
+>>>>>>> a63a9b1243d265cfd88f15641b3ab82c783e71c1
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

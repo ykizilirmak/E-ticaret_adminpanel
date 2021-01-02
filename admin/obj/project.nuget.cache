@@ -1,6 +1,12 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "p0Pqv6kKtTOjt+OH/xez141Axh2+gNH/clC1iIILKYmifkGlEpnyxXWdRK0erK6VJbuaVjRnFB4cmazu8xvEBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+  "expectedPackageFiles": [
+=======
+<<<<<<< HEAD
   "dgSpecHash": "q5jk+TFUUTk8BBPGivyuBcHUfyGXo8R/Go4uMdtYsGDqo8hNzK+OBX3pH+6iMY/Xj/clWjRG8bC+6NPG6y+74w==",
   "success": true,
   "projectFilePath": "C:\\Users\\BuseYalcin\\source\\repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
@@ -287,6 +293,7 @@
   "success": true,
   "projectFilePath": "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
   "expectedPackageFiles": [
+>>>>>>> a63a9b1243d265cfd88f15641b3ab82c783e71c1
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.antiforgery\\2.1.1\\microsoft.aspnetcore.antiforgery.2.1.1.nupkg.sha512",
@@ -564,7 +571,10 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
+<<<<<<< HEAD
+=======
 >>>>>>> fabadeef8536ecbb5168764adf62151309094179
+>>>>>>> a63a9b1243d265cfd88f15641b3ab82c783e71c1
   ],
   "logs": []
 }
