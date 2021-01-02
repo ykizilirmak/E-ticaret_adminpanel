@@ -30,6 +30,7 @@ C:\Users\pc\source\repos\admin\admin\obj\Debug\netcoreapp2.1\admin.Views.pdb
 C:\Users\pc\source\repos\admin\admin\obj\Debug\netcoreapp2.1\admin.dll
 C:\Users\pc\source\repos\admin\admin\obj\Debug\netcoreapp2.1\admin.pdb
 C:\Users\pc\source\repos\admin\admin\obj\Debug\netcoreapp2.1\admin.csproj.CopyComplete
+<<<<<<< HEAD
 C:\Users\Onelife\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\Onelife\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Users\Onelife\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\admin.deps.json
@@ -100,3 +101,5 @@ C:\Users\90538\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\a
 C:\Users\90538\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.pdb
 C:\Users\90538\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.genruntimeconfig.cache
 C:\Users\90538\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.csproj.CopyComplete
+=======
+>>>>>>> 3c4b32b7cdfc7e4e5d4eaf57fdaa22971aacc43c
