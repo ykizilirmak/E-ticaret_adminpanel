@@ -69,7 +69,6 @@ C:\Users\BuseYalcin\source\repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp
 C:\Users\BuseYalcin\source\repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_footer.cshtml.g.cs
 C:\Users\BuseYalcin\source\repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_sidebar.cshtml.g.cs
 =======
-<<<<<<< HEAD
 C:\Users\Onelife\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\Onelife\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Users\Onelife\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\admin.deps.json
@@ -140,6 +139,43 @@ C:\Users\90538\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\a
 C:\Users\90538\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.pdb
 C:\Users\90538\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.genruntimeconfig.cache
 C:\Users\90538\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.csproj.CopyComplete
-=======
 >>>>>>> 3c4b32b7cdfc7e4e5d4eaf57fdaa22971aacc43c
 >>>>>>> 81781d25a24db3bac5c0f77ed2108a495e933215
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\admin.deps.json
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\admin.runtimeconfig.json
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\admin.runtimeconfig.dev.json
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\admin.dll
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\admin.pdb
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\admin.Views.dll
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\bin\Debug\netcoreapp2.1\admin.Views.pdb
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.csprojAssemblyReference.cache
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.AssemblyInfoInputs.cache
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.AssemblyInfo.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.csproj.CoreCompileInputs.cache
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.RazorAssemblyInfo.cache
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.RazorAssemblyInfo.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.TagHelpers.input.cache
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.TagHelpers.output.cache
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.RazorCoreGenerate.cache
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_footer.cshtml.g.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_sidebar.cshtml.g.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.RazorTargetAssemblyInfo.cache
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.RazorTargetAssemblyInfo.cs
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.Views.pdb
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.dll
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.pdb
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.genruntimeconfig.cache
+C:\Users\gb141\Source\Repos\E-ticaret_adminpanel\admin\obj\Debug\netcoreapp2.1\admin.csproj.CopyComplete

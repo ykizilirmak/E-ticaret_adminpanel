@@ -8665,6 +8665,7 @@
       "path": "system.diagnostics.contracts/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -12652,95 +12653,19 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-    "C:\\Users\\BuseYalcin\\.nuget\\packages\\": {}
-=======
-<<<<<<< HEAD
->>>>>>> c4b3950f09b7d1d84f05266f7a46444fdd1336b0
-    "C:\\Users\\tubak\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< HEAD
-    "C:\\Users\\SalihBurak\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
-=======
-<<<<<<< HEAD
-    "C:\\Users\\BuseYalcin\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\90538\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
->>>>>>> fabadeef8536ecbb5168764adf62151309094179
->>>>>>> a63a9b1243d265cfd88f15641b3ab82c783e71c1
->>>>>>> 3c4b32b7cdfc7e4e5d4eaf57fdaa22971aacc43c
->>>>>>> 81781d25a24db3bac5c0f77ed2108a495e933215
->>>>>>> c4b3950f09b7d1d84f05266f7a46444fdd1336b0
+    "C:\\Users\\gb141\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\tubak\\source\\repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
-=======
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\BuseYalcin\\source\\repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
-=======
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\tubak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+      "projectUniqueName": "C:\\Users\\gb141\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
       "projectName": "admin",
-      "projectPath": "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
-      "packagesPath": "C:\\Users\\SalihBurak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\obj\\",
-=======
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\BuseYalcin\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
->>>>>>> 81781d25a24db3bac5c0f77ed2108a495e933215
-      "projectName": "admin",
-      "projectPath": "C:\\Users\\BuseYalcin\\source\\repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
-      "packagesPath": "C:\\Users\\BuseYalcin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BuseYalcin\\source\\repos\\E-ticaret_adminpanel\\admin\\obj\\",
+      "projectPath": "C:\\Users\\gb141\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+      "packagesPath": "C:\\Users\\gb141\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gb141\\Source\\Repos\\E-ticaret_adminpanel\\admin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\BuseYalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 3c4b32b7cdfc7e4e5d4eaf57fdaa22971aacc43c
-      "projectUniqueName": "C:\\Users\\90538\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
->>>>>>> ee44f8e671b0e911d74da459f1833a20019c8538
->>>>>>> c4b3950f09b7d1d84f05266f7a46444fdd1336b0
-      "projectName": "admin",
-      "projectPath": "C:\\Users\\tubak\\source\\repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
-      "packagesPath": "C:\\Users\\tubak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tubak\\source\\repos\\E-ticaret_adminpanel\\admin\\obj\\",
-      "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
-      "configFilePaths": [
-        "C:\\Users\\tubak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-<<<<<<< HEAD
-=======
-=======
-        "C:\\Users\\90538\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
-<<<<<<< HEAD
-=======
->>>>>>> fabadeef8536ecbb5168764adf62151309094179
->>>>>>> a63a9b1243d265cfd88f15641b3ab82c783e71c1
->>>>>>> 3c4b32b7cdfc7e4e5d4eaf57fdaa22971aacc43c
->>>>>>> ee44f8e671b0e911d74da459f1833a20019c8538
->>>>>>> 81781d25a24db3bac5c0f77ed2108a495e933215
->>>>>>> c4b3950f09b7d1d84f05266f7a46444fdd1336b0
+        "C:\\Users\\gb141\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12830,16 +12755,8 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\tubak\\source\\repos\\E-ticaret_adminpanel\\admin\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
