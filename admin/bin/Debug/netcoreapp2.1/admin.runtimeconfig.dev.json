@@ -1,8 +1,20 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "C:\\Users\\BuseYalcin\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\BuseYalcin\\.nuget\\packages"
+=======
+<<<<<<< HEAD
+      "C:\\Users\\90538\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\90538\\.nuget\\packages",
+      "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+=======
+      "C:\\Users\\pc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pc\\.nuget\\packages",
+>>>>>>> 3c4b32b7cdfc7e4e5d4eaf57fdaa22971aacc43c
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+>>>>>>> 81781d25a24db3bac5c0f77ed2108a495e933215
     ]
   }
 }
