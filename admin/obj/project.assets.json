@@ -11795,19 +11795,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\SalihBurak\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+      "projectUniqueName": "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
       "projectName": "admin",
-      "projectPath": "C:\\Users\\Asus\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Source\\Repos\\E-ticaret_adminpanel\\admin\\obj\\",
+      "projectPath": "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\admin.csproj",
+      "packagesPath": "C:\\Users\\SalihBurak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SalihBurak\\Source\\Repos\\E-ticaret_adminpanel\\admin\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SalihBurak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
