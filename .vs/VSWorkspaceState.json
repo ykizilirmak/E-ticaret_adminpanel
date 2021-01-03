@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\admin",
+    "\\admin\\bin",
+    "\\admin\\Controllers",
+    "\\admin\\Models"
   ],
   "PreviewInSolutionExplorer": false
 }
